@@ -250,7 +250,7 @@ const ArtixanLandingPage = () => {
                 </div>
                 
                 <p className="text-slate-300 mb-6 leading-relaxed italic">
-                  "{testimonial.content}"
+                  &quot;{testimonial.content}&quot;
                 </p>
                 
                 <div className="border-t border-slate-700 pt-4">
